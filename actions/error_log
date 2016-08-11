@@ -1,0 +1,6 @@
+[10-Aug-2016 18:23:43 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home1/mildfun/public_html/new/classes/interactWithDatabase.php on line 16
+[10-Aug-2016 18:36:04 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/mildfun/public_html/new/classes/interactWithJWT.php on line 82
+[10-Aug-2016 18:36:24 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/mildfun/public_html/new/classes/interactWithJWT.php on line 82
+[11-Aug-2016 01:04:49 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/mildfun/public_html/new/classes/interactWithJWT.php on line 82
+[11-Aug-2016 01:09:52 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/mildfun/public_html/new/classes/interactWithJWT.php on line 82
+[11-Aug-2016 01:13:47 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/mildfun/public_html/new/classes/interactWithJWT.php on line 82

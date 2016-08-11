@@ -1,0 +1,1 @@
+<?php echo "Please login to acesss this content!";?>
